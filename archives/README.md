@@ -5,4 +5,8 @@
 ## Version Table
 version | date | change | notes 
 --------|------|--------|------
-xxx.xxx.xxx | 2022-12-29 | made button green | change event from onclick to onblur in next version
+000.000.001 | 2023-01-16 | created project | none
+000.000.002 | 2023-01-16 | implement Queue.Add | none
+000.000.003 | | implement Queue.Remove | none
+000.000.004 | | validation changes | none
+001.000.000 | | release build | none
